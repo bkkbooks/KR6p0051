@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0051_000-X.yaml, hash: 'sha256:8376738e9d563e90086d61ff078e3a94f528724032ef341f1ec968751391a6e7'}
+  - {seq: 0, filename: KR6p0051_000-X.yaml, hash: 'sha256:13dc6f3f22058e8d839253ff29c46ee78c925d7e3059be32d6351f094cb8c916'}
   - {seq: 1, filename: KR6p0051_001-X.yaml, hash: 'sha256:e249093051565a2cd6c1b47cc939e7377690ab18110a87990fc98904c7dfe9a8'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0051_000-X.markers.yaml, hash: 'sha256:fafb028a3aa00adbb5a56cea4458c87a33b865ebad38bf93c197967c408e66a4'}
+  - {seq: 0, role: markers, filename: assets/KR6p0051_000-X.markers.yaml, hash: 'sha256:8dca62dc37b3086eadae99ef3196c4bfc4d953158c228c7ffad15e511cf3e364'}
   - {seq: 1, role: markers, filename: assets/KR6p0051_001-X.markers.yaml, hash: 'sha256:4269e9df380ad166b6a7c17dea5d7aa0113f6dc2a71c65127392c880bb4b50ca'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6p0051_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1149-A 注十疑論并序
@@ -155,4 +155,4 @@ table_of_contents:
   label: 第十疑
   type: mulu
   level: 1
-hash: sha256:3d8e80f2b59ad06bb539c08ca760f1ee57957b638f4628730d8be0451abb20a3
+hash: sha256:5867a6ab3539912fcbde6435b7db588f4e594600be02dcd59eeefd98e78784e9

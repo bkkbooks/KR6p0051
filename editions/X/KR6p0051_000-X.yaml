@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR6p0051/x/v1/juan/0
 seq: 0
-front:
+body:
   text: 注十疑論并序天台智者大師說沙門澄彧註沙門贊寧序序曰夫談大人境界者卒不可貴信蓋難信之法也譬若觀君王之尊貴歎曰我必不能親近歟一旦因依致之于左右此他力之驗也惟智者大師能焉自登忍力作師子吼吼聲普聞可畏難解喻如卿導之言不軆異之路奚通是故吳山澄彧上人揮彌天之筆章句出焉令披文見意不俣終日也領彼迷兒歸于父舍末有道贊人者專修淨業誘掖眾多令愚稱讚於此門約我往生於彼土序冠論首以先啟行時大宋太平興國八年初建鶉味月序
   hash: sha256:8cc0cf6c39effae060c45411b61d8123990656f6adcead8c38d6bef342a2b175
   markers:
   - {type: 序, offset: 0, content: No. 1149-A 注十疑論并序, id: KR6p0051_X_000-mulu-1, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 注十疑論
   edition:
@@ -16,4 +13,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/X/X61/X61n1149.xml
     old_id: X61n1149
-hash: sha256:8376738e9d563e90086d61ff078e3a94f528724032ef341f1ec968751391a6e7
+hash: sha256:13dc6f3f22058e8d839253ff29c46ee78c925d7e3059be32d6351f094cb8c916
